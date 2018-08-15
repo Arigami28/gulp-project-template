@@ -1,0 +1,11 @@
+# Исключим из репозитория папки с картинками
+.idea/
+
+# Исключение .map файлов
+*.map
+package-lock.json
+
+#npm
+node_modules
+#bower
+bower_components
